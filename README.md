@@ -9,3 +9,5 @@ document.write('<h1>I\'m a super full-stack-developer!</h1>');
 document.write('<h1>It is good day today</h1>');
 ```
 
+<span>Project is published at:
+https://yosip92.github.io/hello-javascript/</span>
